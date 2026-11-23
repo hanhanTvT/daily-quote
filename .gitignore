@@ -1,0 +1,23 @@
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# 签名与密钥：任何情况下都不要提交
+*.jks
+*.keystore
+keystore.properties
+signing.properties
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
+*.log

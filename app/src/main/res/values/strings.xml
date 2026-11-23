@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">每日一句</string>
+    <string name="header_title">每日一句</string>
+    <string name="header_sub">今天也要好好生活</string>
+    <string name="tag_today">今日</string>
+    <string name="tag_saved">已收藏</string>
+    <string name="btn_refresh">换一句</string>
+    <string name="hint">点卡片也能换一句 · 长按复制</string>
+    <string name="tab_today">今日</string>
+    <string name="tab_saved">收藏</string>
+    <string name="tab_me">我的</string>
+    <string name="saved_title">我的收藏</string>
+    <string name="saved_empty">还没有收藏任何句子\n点右上角书签就能收藏这一句</string>
+    <string name="me_title">我的</string>
+    <string name="me_seen">已读句子</string>
+    <string name="me_saved">收藏句子</string>
+    <string name="me_clear">清空收藏</string>
+    <string name="me_about">每日一句 · v2.0</string>
+    <string name="quote_placeholder">今天也要好好生活，因为你值得。</string>
+    <string name="author_placeholder">—— 佚名</string>
+    <string name="toast_saved">已收藏</string>
+    <string name="toast_unsaved">已取消收藏</string>
+    <string name="toast_copied">已复制到剪贴板</string>
+    <string name="toast_cleared">收藏已清空</string>
+    <string name="empty_hint">— 已经是全部了 —</string>
+</resources>

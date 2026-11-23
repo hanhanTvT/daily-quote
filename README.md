@@ -13,6 +13,7 @@
 ![Target](https://img.shields.io/badge/target-34-blue?style=flat-square)
 ![Dependencies](https://img.shields.io/badge/dependencies-0-success?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
+![Build](https://github.com/hanhanTvT/daily-quote/actions/workflows/build.yml/badge.svg?branch=main)
 
 [特性](#特性) · [快速开始](#快速开始) · [界面结构](#界面结构) · [设计规范](#设计规范) · [自定义](#自定义指南) · [Roadmap](#roadmap)
 

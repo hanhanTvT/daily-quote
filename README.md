@@ -20,6 +20,8 @@
 
 ---
 
+<img src="docs/screenshot-today.jpg" width="300" align="center" alt="每日一句 截图：磨砂玻璃句子卡片" />
+
 ## 这是什么
 
 一个只有 600 多行 Java、**零第三方依赖**的 Android 小 App。

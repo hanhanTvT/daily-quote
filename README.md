@@ -48,7 +48,7 @@
 ### 方式一：Android Studio（推荐）
 
 ```bash
-git clone https://github.com/<your-name>/daily-quote.git
+git clone https://github.com/hanhanTvT/daily-quote.git
 ```
 
 Android Studio（Hedgehog 及以上）→ `Open` → 选择项目根目录 → 等待 Gradle Sync → 点 ▶ Run。
@@ -65,7 +65,11 @@ Android Studio（Hedgehog 及以上）→ `Open` → 选择项目根目录 → �
 
 ### 方式三：直接装 APK
 
-到 [Releases](../../releases) 页下载最新 `app-debug.apk` 安装即可。支持 Android 7.0（API 24）及以上。
+不想编译的话，直接下载装：
+
+**[⬇️ DailyQuote-v2.0.0-debug.apk](https://github.com/hanhanTvT/daily-quote/releases/download/v2.0.0/DailyQuote-v2.0.0-debug.apk)**（588 KB）
+
+该 APK 由 GitHub Actions 自动构建（见 [构建流水线](../../actions)），支持 Android 7.0（API 24）及以上。debug 签名，仅作体验与自用。
 
 ## 界面结构
 
